@@ -99,7 +99,6 @@ async def deploy_customer(interaction: discord.Interaction, memory: str, cores: 
 Access via SSH:
 
 `{ssh_info}`
-- 🌐 **Shared-IPv4 Usage:** Use the `port` command to add ports
 - 💾 **VPS Server Memory:** {memory}GB
 - 📗 **VPS Server Cores:** {cores}
 
@@ -119,7 +118,6 @@ Access via SSH:
 `ssh root@{remote_host} -p {ssh_info}`
 - 👤 **Username:** `root`
 - 🔑 **Password:** `{password}`
-- 🌐 **Shared-IPv4 Usage**: Use the `port` command to add ports
 
 **🚀 Quick Start:**
 - 📱 Mobile: Use **Termius** to connect.
