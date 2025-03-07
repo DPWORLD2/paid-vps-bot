@@ -158,7 +158,7 @@ Access via SSH:
 💬 **Share Your Experience!**
 - 🖼️ Screenshot `neofetch` & post in [Showcase]({LEGIT_CHANNEL}).
 - ⭐ Feedback in [Rate Us]({REVIEW_CHANNEL}).
-- 👍 Discord Bot made by <https://discord.gg/proxmox>
+- 👍 Discord Bot made by <https://discord.gg/kvm>
 """
         else:
             ssh_details = f"""**Your VPS is Ready!**
@@ -175,7 +175,7 @@ Access via SSH:
 💬 **Share Your Experience!**
 - 🖼️ Screenshot `neofetch` & post in [Showcase]({LEGIT_CHANNEL}).
 - ⭐ Feedback in [Rate Us]({REVIEW_CHANNEL}).
-- 👍 Discord Bot made by <https://discord.gg/proxmox>
+- 👍 Discord Bot made by <https://discord.gg/kvm>
 """
         try:
             await customer.send(ssh_details)
