@@ -9,8 +9,7 @@ from discord.ext import commands
 from discord import app_commands
 
 NODES = [
-    {"id": "local", "ip": "localhost", "tmate": False},
-    {"id": "local-2", "ip": "localhost", "tmate": True},
+    {"id": "local", "ip": "localhost", "tmate": True},
 ]
 
 remote_user = "root"
