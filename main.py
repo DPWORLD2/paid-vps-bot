@@ -13,11 +13,11 @@ NODES = [
 ]
 
 remote_user = "root"
-remote_password = ""
-server_id = 1293949144540381185
-allowed_roles = [1304429499445809203]
-REVIEW_CHANNEL = "https://discord.com/channels/1293949144540381185/1334682666301263883"
-LEGIT_CHANNEL = "https://discord.com/channels/1293949144540381185/1334682558507647007"
+remote_password = "root"
+server_id = 1164144227169607751
+allowed_roles = [1164144703168585768]
+REVIEW_CHANNEL = "https://discord.com/channels/1164144227169607751/1350386021396910101"
+LEGIT_CHANNEL = "https://discord.com/channels/1164144227169607751/1350386021396910101"
 TOKEN = ''
 
 intents = discord.Intents.all()
